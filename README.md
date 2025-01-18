@@ -1,5 +1,7 @@
 ### Golang CQRS EventSourcing EventStoreDB MongoDB Elasticsearch gRPC microservice example 👋
 
+https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo
+
 #### 👨‍💻 Full list what has been used:
 [EventStoreDB](https://www.eventstore.com/) The database built for Event Sourcing<br/>
 [gRPC](https://github.com/grpc/grpc-go) Go implementation of gRPC<br/>
